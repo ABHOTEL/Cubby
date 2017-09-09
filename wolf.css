@@ -1,5 +1,5 @@
 .tdmenu b {
-    font-size: 30px;
+    font-size: 30px !important;
 }
 
 .tdmenu b:before, .tdmenu b:after {
