@@ -1,8 +1,8 @@
-.tdmenu b {
-    font-size: 30px !important;
+.tdmenu  {
+    font-size: 30px;
 }
 
-.tdmenu b:before, .tdmenu b:after {
+.tdmenu:before, .tdmenu:after {
     content: "🐺";
     padding: 10px;
 }
