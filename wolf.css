@@ -3,6 +3,6 @@
 }
 
 .tdmenu:before, .tdmenu:after {
-    content: ":wolf:";
+    content: "🐺";
     padding: 10px;
 }
