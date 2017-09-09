@@ -1,8 +1,0 @@
-.tdmenu  {
-    font-size: 30px;
-}
-
-.tdmenu:before, .tdmenu:after {
-    content: "🐺";
-    padding: 10px;
-}
